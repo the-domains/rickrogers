@@ -9,15 +9,15 @@ description: >-
   Seven, the result of their interest in developing distinctly Canadian visual
   imagery. It was the first of a series of monochromatic textural paintings that
   I am working on for an upcoming exhibition.
-datePublished: '2016-07-11T02:38:45.383Z'
-dateModified: '2016-07-11T02:38:27.195Z'
+datePublished: '2016-07-11T02:48:52.729Z'
+dateModified: '2016-07-11T02:48:47.634Z'
 title: ''
 author: []
+sourcePath: >-
+  _posts/2016-07-11-admirology-is-an-expression-of-my-admiration-of-the-works-of.md
 authors: []
 publisher: null
 starred: false
-sourcePath: >-
-  _posts/2016-07-11-admirology-is-an-expression-of-my-admiration-of-the-works-of.md
 url: admirology-is-an-expression-of-my-admiration-of-the-works-of/index.html
 _type: Article
 
