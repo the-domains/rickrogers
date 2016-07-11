@@ -9,8 +9,8 @@ description: >-
   Seven, the result of their interest in developing distinctly Canadian visual
   imagery. It was the first of a series of monochromatic textural paintings that
   I am working on for an upcoming exhibition.
-datePublished: '2016-07-11T02:49:34.601Z'
-dateModified: '2016-07-11T02:49:20.986Z'
+datePublished: '2016-07-11T02:53:49.021Z'
+dateModified: '2016-07-11T02:53:01.500Z'
 title: ''
 author: []
 sourcePath: >-
