@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[rickrogers]]></title>
         <description><![CDATA[rickrogers]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rickrogers/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jul 2016 02:38:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Jul 2016 02:48:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rickrogers/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f16ec72-b4f9-4015-a394-201b71c482a4.jpg">]]></description>
-            <link>undefinedadmirology-is-an-expression-of-my-admiration-of-the-works-of/index.html</link>
+            <link>https://thegrid.ai/rickrogers/admirology-is-an-expression-of-my-admiration-of-the-works-of/index.html</link>
             <guid isPermaLink="false">eda2b16f-61c5-4063-b606-561d904caea6</guid>
-            <pubDate>Mon, 11 Jul 2016 02:38:45 GMT</pubDate>
+            <pubDate>Mon, 11 Jul 2016 02:48:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
